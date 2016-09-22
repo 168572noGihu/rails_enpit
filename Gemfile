@@ -16,7 +16,7 @@ gem 'therubyracer', platforms: :ruby
 
 #追加行
 gem 'rails_12factor',group :: production
-ruby '2.2.2'
+ruby '2.2.5'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
