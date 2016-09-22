@@ -15,7 +15,7 @@ gem 'coffee-rails', '~> 4.1.0'
 gem 'therubyracer', platforms: :ruby
 
 #追加行
-gem 'rails_12factor',group :: production
+gem 'rails_12factor', group: :production
 ruby '2.2.5'
 
 # Use jquery as the JavaScript library
